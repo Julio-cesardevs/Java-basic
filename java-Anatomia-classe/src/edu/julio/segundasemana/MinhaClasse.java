@@ -1,3 +1,4 @@
+package edu.julio.segundasemana;
 public class MinhaClasse {
   // Aqui é corpo do meu Método
   public static void main(String[] args) {
@@ -6,6 +7,7 @@ public class MinhaClasse {
       // declação de variáveis.
     String primeiroNome = "Júlio";
     String segundoNome = "César";
+    int numeroVazio;
 
     String nomeCompleto = nomeCompleto(primeiroNome, segundoNome);
 
